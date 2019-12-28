@@ -13,7 +13,6 @@ public class VR_MoveArm : MonoBehaviour {
     public static List<GameObject> wrist;
     public static List<GameObject> fingers;
     public static GameObject fingerPoint;
-    public static GameObject test;
 
     // Angles for data logging.
     public static float handOC;
